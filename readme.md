@@ -1,3 +1,6 @@
+#Please see demo here
+https://www.youtube.com/watch?v=fOqRSUPtKFs&t=6s
+
 #download weight
 wget http://pjreddie.com/media/files/yolo.weights
 
